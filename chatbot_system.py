@@ -62,6 +62,7 @@ DEFAULT_CONFIG = {
             "Opening hours",
             "Coffee menu",
             "Vegetarian options",
+            "Free options",
             "Find a branch",
         ],
     },
